@@ -15,3 +15,7 @@ Travel friendly Android app
 •	 Adaptability: To cater to the diverse needs of frequent travellers, tourists, and explorers by offering customizable features that enhance various aspects of the travel experience.
 •	  Interactive Engagement: To encourage user participation through feedback collection, allowing the app to continuously improve and evolve based on user insights.
 
+![image](https://github.com/user-attachments/assets/43115cd0-e5cf-4664-b607-38137c574804)
+
+![image](https://github.com/user-attachments/assets/f841d1f2-c2e7-4b4f-af64-1bf811928cf2)
+
